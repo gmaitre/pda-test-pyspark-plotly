@@ -1,5 +1,6 @@
 pyspark
 toree
 pandas
+statsmodels
 plotly==4.9.0
 jupyter-server-proxy
