@@ -1,4 +1,5 @@
 pyspark
 toree
+pandas
 plotly==4.9.0
 jupyter-server-proxy
