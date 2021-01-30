@@ -1,0 +1,4 @@
+pyspark
+toree
+plotly==4.9.0
+jupyter-server-proxy

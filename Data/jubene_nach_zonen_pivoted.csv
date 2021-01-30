@@ -1,0 +1,55 @@
+Kanton,Zone,Jahr,Value
+Bern,Talzone,2000,562
+Bern,Hügelzone,2000,296
+Bern,Bergzone 1,2000,647
+Bern,Bergzone 2,2000,1135
+Bern,Bergzone 3,2000,668
+Bern,Bergzone 4,2000,216
+Bern,Talzone,2010,697
+Bern,Hügelzone,2010,338
+Bern,Bergzone 1,2010,577
+Bern,Bergzone 2,2010,1090
+Bern,Bergzone 3,2010,579
+Bern,Bergzone 4,2010,223
+Bern,Talzone,2019,1342
+Bern,Hügelzone,2019,477
+Bern,Bergzone 1,2019,747
+Bern,Bergzone 2,2019,1081
+Bern,Bergzone 3,2019,571
+Bern,Bergzone 4,2019,148
+Jura,Talzone,2000,10
+Jura,Hügelzone,2000,6
+Jura,Bergzone 1,2000,14
+Jura,Bergzone 2,2000,91
+Jura,Bergzone 3,2000,17
+Jura,Bergzone 4,2000,0
+Jura,Talzone,2010,56
+Jura,Hügelzone,2010,36
+Jura,Bergzone 1,2010,23
+Jura,Bergzone 2,2010,123
+Jura,Bergzone 3,2010,16
+Jura,Bergzone 4,2010,0
+Jura,Talzone,2019,174
+Jura,Hügelzone,2019,93
+Jura,Bergzone 1,2019,66
+Jura,Bergzone 2,2019,195
+Jura,Bergzone 3,2019,17
+Jura,Bergzone 4,2019,0
+Neuchâtel,Talzone,2000,33
+Neuchâtel,Hügelzone,2000,3
+Neuchâtel,Bergzone 1,2000,0
+Neuchâtel,Bergzone 2,2000,66
+Neuchâtel,Bergzone 3,2000,2
+Neuchâtel,Bergzone 4,2000,0
+Neuchâtel,Talzone,2010,39
+Neuchâtel,Hügelzone,2010,2
+Neuchâtel,Bergzone 1,2010,5
+Neuchâtel,Bergzone 2,2010,63
+Neuchâtel,Bergzone 3,2010,0
+Neuchâtel,Bergzone 4,2010,0
+Neuchâtel,Talzone,2019,155
+Neuchâtel,Hügelzone,2019,14
+Neuchâtel,Bergzone 1,2019,24
+Neuchâtel,Bergzone 2,2019,120
+Neuchâtel,Bergzone 3,2019,5
+Neuchâtel,Bergzone 4,2019,0
